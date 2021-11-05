@@ -12,7 +12,8 @@
 ```
 .
 |-- note
-|   `-- [HUFS_ML01]  Note#01 (211029).ipynb
+|   |-- [HUFS_ML01] Note#01 (211029).ipynb
+|   `-- [HUFS_ML01] Note#02 (211105).ipynb
 `-- README.md
 ```
 
