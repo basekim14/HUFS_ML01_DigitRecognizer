@@ -11,10 +11,19 @@
 
 ```
 .
-|-- note
-|   |-- [HUFS_ML01] Note#01 (211029).ipynb
-|   `-- [HUFS_ML01] Note#02 (211105).ipynb
-`-- README.md
+|-- README.md
+`-- note
+    |-- [HUFS_ML01] Note#01 (211029).ipynb
+    |-- [HUFS_ML01] Note#02 (211105).ipynb
+    |-- [HUFS_ML01] Note#03 (211107).ipynb
+    `-- reference
+        |-- Game&Covid.ipynb
+        |-- dry_bean.ipynb
+        |-- test9.ipynb
+        |-- weather&subway,bus.ipynb
+        |-- 농산물_가격과_날씨의_상관관계.ipynb
+        `-- 지하철_이용량과_코로나_확진자수간의_관계s.ipynb
+
 ```
 
 
