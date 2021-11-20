@@ -1,0 +1,24 @@
+1. Top games on Twitch 2016 - 2021
+- https://www.kaggle.com/rankirsh/evolution-of-top-games-on-twitch
+- 트위치의 2016년부터 현재(2021년)까지의 매달 상위 200개의 게임 데이터 셋
+- 게임 종류, 이름, 날짜, 시청 시간, 스트림 시간, 시청자 수 등
+* 트위치 : 비디오 게임 전용 인터넷 개인 방송 서비스
+
+2. Metacritic video-games data
+- https://www.kaggle.com/brunovr/metacritic-videogames-data
+- 메타크리틱에서 수집한 비디오 게임 데이터 셋
+- 게임 이름, 플랫폼, 리뷰 점수, 게임 장르 등  
+* 메타크리틱 : 2001년 1월에 설립된 음반, 게임, 영화, TV 프로그램과 DVD의 리뷰를 수집하는 웹사이트
+
+3. Steam top 100 games(NOV 2021)
+- https://www.kaggle.com/angadchau/steam-top-100-gamesnov-2021
+- 2021년 11월 스팀 게임 top 100
+- 게임 id, 게임 이름, 현재 플레이어 수, 피크 플레이어 수, 리뷰 개수 등
+
+---
+논문
+게임 플랫폼과 게임 이용 형태의 변화에 따른 포스트 코로나 시대의 게임산업 경쟁력 방안 연구
+
+- 코로나 이후 신규 게임 이용자 수 추이
+- 플레이 하는 게임에서 보는 게임으로의 게임 이용 형태 변화
+  => 게임 시청에 관한 항목 추가?

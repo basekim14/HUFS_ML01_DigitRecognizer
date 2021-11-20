@@ -17,15 +17,21 @@
     |-- [HUFS_ML01] Note#02 (211105).ipynb
     |-- [HUFS_ML01] Note#03 (211107).ipynb
     |-- [HUFS_ML01] Note#04 (211112).ipynb
+    |-- [HUFS_ML01] Note#05 (211119).ipynb
     `-- reference
         |-- Game&Covid.ipynb
         |-- dry_bean.ipynb
         |-- test9.ipynb
         |-- weather&subway,bus.ipynb
         |-- 기계학습_프로젝트_-_전세계코로나데이터.ipynb
+        |-- [HUFSML]_게임_데이터셋.ipynb
         |-- 농산물_가격과_날씨의_상관관계.ipynb
         |-- 지하철_이용량과_코로나_확진자수간의_관계.ipynb
-        `-- 코로나_데이터_처리_2021.11.11(정리_ver).ipynb
+        |-- 코로나_데이터_처리_2021.11.11.ipynb
+        |-- [HUFSML]_모델_탐구.ipynb
+        |-- [정리]11.19회의_미국_확진자_수와_steam_game_이용자_수의_비교.ipynb
+        |-- image-20211119225934530.png
+        `-- 기계학습_팀플_조사_211119.txt
 
 ```
 
