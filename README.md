@@ -19,6 +19,7 @@
     |-- [HUFS_ML01] Note#04 (211112).ipynb
     |-- [HUFS_ML01] Note#05 (211119).ipynb
     |-- [HUFS_ML01] Note#06 (211126).ipynb
+    |-- [HUFS_ML01] Note#07 (211130).ipynb
     `-- reference
         |-- Game&Covid.ipynb
         |-- dry_bean.ipynb
